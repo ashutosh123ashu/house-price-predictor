@@ -54,7 +54,7 @@ To begin, ensure the following tools are installed on your system:
    ```
 
 3. **Setup Python Virtual Environment using UV:**
-
+   # To go into create and activate python virtual environment
    ```bash
    uv venv --python python3.11
    source .venv/bin/activate
@@ -185,3 +185,5 @@ We welcome contributions, issues, and suggestions to make this project even bett
 
 Happy Learning!  
 — Team **School of DevOps**
+
+
